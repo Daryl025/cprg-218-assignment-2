@@ -1,3 +1,10 @@
+
+ALL WORK IS ORIGINAL
+
+
+
+
+
 # CPRG 218 Intermediate Web Communications
 ## Assignment - Create A Responsive Layout
 
